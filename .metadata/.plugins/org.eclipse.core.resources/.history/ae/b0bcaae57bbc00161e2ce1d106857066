@@ -1,0 +1,11 @@
+package com.kstrata;
+
+public class FirefoxLaunch {
+	
+	@Test
+	public void launchtest()
+	{
+		Firefoxd
+	}
+
+}

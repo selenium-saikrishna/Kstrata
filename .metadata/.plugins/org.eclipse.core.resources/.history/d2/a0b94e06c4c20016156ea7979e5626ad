@@ -1,0 +1,34 @@
+package day29;
+
+public class Hsbc {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Hsbc h=new Hsbc();
+		h.debit();
+		h.credit();
+		h.moneyTransfer();
+
+	}
+
+	@Override
+	public void debit() {
+		System.out.println("Debit process");
+		
+	}
+
+	@Override
+	public void credit() {
+		System.out.println("Credit policy");
+		
+	}
+
+	@Override
+	public void moneyTransfer() {
+		System.out.println("Money transfer");
+		
+	}
+
+}

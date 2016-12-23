@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OrangeHRM Test Suite" duration-ms="45131" started-at="2016-12-15T12:18:42Z" finished-at="2016-12-15T12:19:27Z">
+    <groups>
+    </groups>
+    <test name="End to end Testing" duration-ms="45131" started-at="2016-12-15T12:18:42Z" finished-at="2016-12-15T12:19:27Z">
+      <class name="day22.testsuite.DeleteEmployee">
+        <test-method status="PASS" signature="delempTest()[pri:0, instance:day22.testsuite.DeleteEmployee@4b416926]" name="delempTest" duration-ms="20984" started-at="2016-12-15T04:19:05Z" finished-at="2016-12-15T04:19:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delempTest -->
+      </class> <!-- day22.testsuite.DeleteEmployee -->
+      <class name="day22.testsuite.AddEmployee">
+        <test-method status="PASS" signature="addEmployeetest()[pri:0, instance:day22.testsuite.AddEmployee@2fd6fc1b]" name="addEmployeetest" duration-ms="4524" started-at="2016-12-15T04:19:01Z" finished-at="2016-12-15T04:19:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmployeetest -->
+      </class> <!-- day22.testsuite.AddEmployee -->
+      <class name="day22.testsuite.Logout">
+        <test-method status="PASS" signature="logoutTest()[pri:0, instance:day22.testsuite.Logout@335e6463]" name="logoutTest" duration-ms="1216" started-at="2016-12-15T04:19:26Z" finished-at="2016-12-15T04:19:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+      </class> <!-- day22.testsuite.Logout -->
+      <class name="day22.testsuite.Login">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:day22.testsuite.Login@47387c07]" name="loginTest" duration-ms="18362" started-at="2016-12-15T04:18:42Z" finished-at="2016-12-15T04:19:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- day22.testsuite.Login -->
+    </test> <!-- End to end Testing -->
+  </suite> <!-- OrangeHRM Test Suite -->
+</testng-results>
